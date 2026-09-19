@@ -70,5 +70,3 @@ ai-resume-screening/
 ├── resume_classifier.pkl
 └── label_encoder.pkl
 ```
-
-## Made with love by Sarthak Jain
